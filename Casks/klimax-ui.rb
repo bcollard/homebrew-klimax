@@ -7,7 +7,7 @@ cask "klimax-ui" do
   desc "macOS companion app for klimax — view VMs, kind clusters, and registry mirrors"
   homepage "https://github.com/bcollard/klimax-ui"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "KlimaxUI.app"
 
