@@ -1,6 +1,6 @@
 cask "klimax-ui" do
-  version "0.2.6"
-  sha256 "2c2333752f5361eeec3351c772f907aa12c57abbe603c03aa17c609707731707"
+  version "0.2.7"
+  sha256 "c41bf81c982db8f4c0adb2a0004fb45fa4c90b05495392efeb4dc18dce6cedbd"
 
   url "https://github.com/bcollard/klimax-ui/releases/download/v#{version}/KlimaxUI.dmg"
   name "Klimax UI"
